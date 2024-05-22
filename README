@@ -1,0 +1,5 @@
+1) Run the ContactListApp.java file with java
+Note:
+-Make sure that the all java files are present.
+-The txt files are essential to save data
+-Deleting the txt files will result in losing saved data
